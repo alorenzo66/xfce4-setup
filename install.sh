@@ -13,7 +13,6 @@ echo "
 "
 
 CLONED_DIR="$HOME/xfce4-setup"
-CONFIG_DIR="$HOME/.config/openbox"  #ojo
 INSTALL_DIR="$HOME/installation"
 GTK_THEME="https://github.com/vinceliuice/Orchis-theme.git"
 ICON_THEME="https://github.com/vinceliuice/Colloid-icon-theme.git"
